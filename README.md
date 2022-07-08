@@ -1,4 +1,4 @@
-#A simple blog-site using Django
+# A simple blog-site using Django
 
 For authentication, Django's in built auth app was used.
 Bootstrap 5 was used for styling.
@@ -9,3 +9,6 @@ or visit the [official Django website](https://docs.djangoproject.com/en/4.0/top
 Screenshots:
 ![Screenshot 1](Screenshots/Screenshot1.jpg)
 ![Screenshot 2](Screenshots/Screenshot2.jpg)
+
+Full blog post:
+![SCreenshot 3](Screenshots/Screenshot3.png)
